@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/abhishekkapdi/"><img height="30" src="https://github.com/mepsd/mepsd/blob/master/icons/linkedin.png?raw=true"></a>
 </p>
 
-<p align="center">I am Cyber Security Expert Working from last 1 year as a Cyber Security Consultant, i founded critical security vulnerabilities in GSRTC, BUSINDIA & Recently i founded 1 bug in Google.
+<p align="center">I am Cyber Security Expert Working from 1 year as a Cyber Security Consultant, i founded critical security vulnerabilities in GSRTC, BUSINDIA & Recently i founded 1 bug in Google.
 
 - 👨🏻‍💻 I’m currently student of BCA.
 - © I’m currently learning C language.
